@@ -1,4 +1,4 @@
-### Steps to upload model to Google cloud ML:
+Steps to upload model to Google cloud ML:
 
 1. Convert the generated model to the required format using convert.py.
 2. Create a bucket on GCP to store the model.
